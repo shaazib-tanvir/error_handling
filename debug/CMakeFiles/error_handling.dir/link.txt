@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc liberror_handling.a CMakeFiles/error_handling.dir/error_handling.c.o
+/usr/bin/llvm-ranlib liberror_handling.a

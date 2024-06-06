@@ -1,0 +1,1 @@
+/usr/bin/clang -g CMakeFiles/test_error_debug.dir/test_error_debug.c.o CMakeFiles/test_error_debug.dir/error_handling.c.o -o test_error_debug

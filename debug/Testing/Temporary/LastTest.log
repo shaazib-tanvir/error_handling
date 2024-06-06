@@ -1,0 +1,18 @@
+Start testing: Jun 06 19:56 IST
+----------------------------------------------------------
+1/1 Testing: test_error_debug
+1/1 Test: test_error_debug
+Command: "/home/frisk17/c/error_handling/debug/test_error_debug"
+Directory: /home/frisk17/c/error_handling/debug
+"test_error_debug" start time: Jun 06 19:56 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_error_debug" end time: Jun 06 19:56 IST
+"test_error_debug" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 06 19:56 IST
