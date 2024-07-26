@@ -1,6 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
-set(CMAKE_C_COMPILER /usr/bin/clang)
 project(error_handling LANGUAGES C VERSION 1.0)
 add_compile_options(-Wall -Werror -Wpedantic)
 add_library(error_handling error_handling.c)
