@@ -1,5 +1,0 @@
-/home/frisk17/c/error_handling/build/CMakeFiles/error_handling.dir
-/home/frisk17/c/error_handling/build/CMakeFiles/test_error_debug.dir
-/home/frisk17/c/error_handling/build/CMakeFiles/test.dir
-/home/frisk17/c/error_handling/build/CMakeFiles/edit_cache.dir
-/home/frisk17/c/error_handling/build/CMakeFiles/rebuild_cache.dir
