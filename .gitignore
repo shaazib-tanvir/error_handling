@@ -53,3 +53,7 @@ dkms.conf
 
 # Cache
 .cache/
+
+# Build and Debug directories
+build/
+debug/

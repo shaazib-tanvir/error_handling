@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.10)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 project(error_handling LANGUAGES C VERSION 1.0)
 add_compile_options(-Wall -Werror -Wpedantic)
